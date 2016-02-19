@@ -1,2 +1,2 @@
 # alogboys
-This repository is intended for myself to make best practise of Algorithm
+This repository is intended for best practise of Algorithm
