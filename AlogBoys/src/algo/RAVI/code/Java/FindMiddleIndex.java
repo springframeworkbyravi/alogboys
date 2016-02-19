@@ -1,4 +1,4 @@
-package com.java.program;
+package algo.RAVI.code.Java;
 
 /**
  * Find out middle index where sum of both ends are equal - See more at:

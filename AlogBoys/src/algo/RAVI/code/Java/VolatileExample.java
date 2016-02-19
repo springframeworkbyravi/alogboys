@@ -1,4 +1,4 @@
-package com.thread.volatilee;
+package algo.RAVI.code.Java;
 
 public class VolatileExample {
 

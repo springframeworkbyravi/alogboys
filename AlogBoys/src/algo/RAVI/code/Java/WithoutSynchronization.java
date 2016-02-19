@@ -1,4 +1,4 @@
-package com.thread.synchronisation;
+package algo.RAVI.code.Java;
 
 public class WithoutSynchronization {
 

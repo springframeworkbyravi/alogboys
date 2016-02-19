@@ -1,4 +1,4 @@
-package com.java.program;
+package algo.RAVI.code.Java;
 
 import java.util.Arrays;
 

@@ -1,6 +1,6 @@
-package com.thread.join;
+package algo.RAVI.code.Java;
 
-public class Join_First {
+public class Join_Thread {
 	public static void main(String[] args) throws InterruptedException {
 		Mythread mythread = new Mythread();
 		Thread t1 = new Thread(mythread, "Ravi");

@@ -1,4 +1,4 @@
-package com.thread.ThreadCommunication;
+package algo.RAVI.code.Java;
 
 public class SynchronizedForObjectLock {
 	public static void main(String[] args) {

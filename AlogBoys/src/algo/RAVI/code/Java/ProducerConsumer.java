@@ -1,4 +1,4 @@
-package com.thread.ThreadCommunication;
+package algo.RAVI.code.Java;
 
 import java.util.ArrayList;
 
