@@ -3,7 +3,7 @@ package com.java.program;
 import java.util.Arrays;
 
 /**
- * Find duplicate number between 1 to N.
+ * Find duplicate number between 1 to N
  * 
  * You have got a range of numbers between 1 to N, where one of the number is
  * repeated. You need to write a program to find out the duplicate number
